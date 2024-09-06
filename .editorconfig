@@ -1,5 +1,5 @@
 root = true
-[*.{c,cmake,cxx,h,hxx,ixx,txt}]
+[*.{c,cpp,cxx,h,hxx,hpp,ixx,txt}]
 charset = utf-8
 end_of_line = lf
 indent_size = 4
