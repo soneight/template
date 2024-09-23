@@ -1,16 +1,8 @@
 root = true
-[*.{c,cpp,cxx,h,hxx,hpp,ixx,txt}]
+[*.{cxx,hxx,ixx,txt}]
 charset = utf-8
 end_of_line = lf
 indent_size = 4
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
-# h: C/C++98 header files
-# hpp: C++11/14 header files
-# hxx: C++17 header files
-# ixx: C++20 modules interface files
-# c: C source files
-# cpp: C++98/11/14 source files
-# cxx: C++17/20 source files
-# txt: CMakeLists.txt files
