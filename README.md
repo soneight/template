@@ -1,7 +1,7 @@
 # TEMPLATE
 
-> Project Short Description
+> Project Summary
 
-Project Long Overview
+Project Overview
 
 ###### each folder MAY contain README with additional information about project
