@@ -1,4 +1,4 @@
-# ignore temporary folders and files
+# ignore helper directories, temporary folders, temporary files
 .*/
 temp/
 temp.*
