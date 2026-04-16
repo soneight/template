@@ -1,5 +1,5 @@
 # TEMPLATE
-> Project Flavor
+> Project Legend
 
 Project Overview
 

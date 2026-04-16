@@ -7,7 +7,7 @@
 ### Modification
 > changing existing files
 
-- purely cosmetic: nothing should be done
+- purely cosmetic: nothing needs to be done
 
 - small changes andor additions: add modification notices near such changes
 
@@ -16,13 +16,13 @@
 ### Creation
 > adding new files
 
-add similar comment matching the LICENSOR template, but include an additional empty line between the `lib:` line and your `copyright` notice (`DO NOT USE LICENSOR COPYRIGHT NOTICE`), like so:
+add similar comment matching the Licensor template, but include an additional empty line between the `lib:` line and your `copyright` notice (`DO NOT USE LICENSOR COPYRIGHT NOTICE`), like so:
 
 ```md
 Apache License 2.0
 NO WARRANTY OF ANY KIND see <http://www.apache.org/licenses/LICENSE-2.0>
 SPDX-License-Identifier: Apache-2.0
-lib: [`NAME`] [FLAVOR]
+lib: [`NAME`] [LEGEND]
 
 [CONTRIBUTOR COPYRIGHT NOTICE]
 ```
@@ -30,12 +30,12 @@ lib: [`NAME`] [FLAVOR]
 ## Licensor
 > project owner
 
-source code files should end with comment about `license` name, `warranty` details, `SPDX` identifier, `library` flavor and `copyright` notice
+source code files should end with comment about `license` name, `warranty` details, `SPDX` identifier, `library` legend and `copyright` notice
 
 ```md
 Apache License 2.0
 NO WARRANTY OF ANY KIND see <http://www.apache.org/licenses/LICENSE-2.0>
 SPDX-License-Identifier: Apache-2.0
-lib: [`NAME`] [FLAVOR]
+lib: [`NAME`] [LEGEND]
 Ⓒ Copyright (c) [YEAR] Oleg'Ease'Kharchuk ᦒ
 ```
