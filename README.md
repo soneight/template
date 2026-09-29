@@ -1,4 +1,4 @@
-# TEMPLATE
+# `TEMPLATE`
 > Project Legend
 
 Project Overview
